@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ShowIt</id>
+        <version>0.1.0.0</version>
+        <title>ShowIt</title>
+        <authors>Furry Builder</authors>
+        <owners>Furry Builder</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A powerful and extensible MVVM framework for console based applications inspired from WPF</description>
+    </metadata>
+    <files>
+
+    </files>
+</package>

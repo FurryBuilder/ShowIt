@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<NuGetterPackages>
+	<NuGetterPackage name="ShowIt">
+		<NuSpecFilePath>ShowIt\ShowIt.nuspec</NuSpecFilePath>
+	</NuGetterPackage>
+</NuGetterPackages>
