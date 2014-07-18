@@ -47,6 +47,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ShowIt.Common\ShowIt.Common.csproj">
+      <Project>{83a7943b-5c80-4d18-8ce4-5bac89fefb9b}</Project>
+      <Name>ShowIt.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShowIt.Drawing\ShowIt.Drawing.csproj">
+      <Project>{9851e242-cf6f-4056-80b3-53d761c09182}</Project>
+      <Name>ShowIt.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShowIt.View\ShowIt.View.csproj">
+      <Project>{3ca6d139-a8e1-4efc-9a71-f32991d5e25a}</Project>
+      <Name>ShowIt.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShowIt.Xaml\ShowIt.Xaml.csproj">
+      <Project>{1f2476b3-b28a-4a18-8282-cfabc1d15861}</Project>
+      <Name>ShowIt.Xaml</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
