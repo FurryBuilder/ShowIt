@@ -11,14 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.View", "ShowIt.View\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.Xaml", "ShowIt.Xaml\ShowIt.Xaml.csproj", "{1F2476B3-B28A-4A18-8282-CFABC1D15861}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.Common.Tests", "ShowIt.Common.Tests\ShowIt.Common.Tests.csproj", "{FEAABE65-3984-42F0-9467-6E4240D1716F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.Drawing.Tests", "ShowIt.Drawing.Tests\ShowIt.Drawing.Tests.csproj", "{2FBD80E4-C102-4009-B490-312897DADFAF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.View.Tests", "ShowIt.View.Tests\ShowIt.View.Tests.csproj", "{8993881F-2C7D-4BE4-9730-F8F13C962B3D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowIt.Xaml.Tests", "ShowIt.Xaml.Tests\ShowIt.Xaml.Tests.csproj", "{DC84C5C6-7876-480A-B613-D75343486910}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{F5C96BD9-F6E2-4FBF-91D7-350C999F1C53}"
 	ProjectSection(SolutionItems) = preProject
 		Tools\cloc-1.60.exe = Tools\cloc-1.60.exe
@@ -50,22 +42,6 @@ Global
 		{1F2476B3-B28A-4A18-8282-CFABC1D15861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F2476B3-B28A-4A18-8282-CFABC1D15861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F2476B3-B28A-4A18-8282-CFABC1D15861}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FEAABE65-3984-42F0-9467-6E4240D1716F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEAABE65-3984-42F0-9467-6E4240D1716F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEAABE65-3984-42F0-9467-6E4240D1716F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEAABE65-3984-42F0-9467-6E4240D1716F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2FBD80E4-C102-4009-B490-312897DADFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FBD80E4-C102-4009-B490-312897DADFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FBD80E4-C102-4009-B490-312897DADFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FBD80E4-C102-4009-B490-312897DADFAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8993881F-2C7D-4BE4-9730-F8F13C962B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8993881F-2C7D-4BE4-9730-F8F13C962B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8993881F-2C7D-4BE4-9730-F8F13C962B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8993881F-2C7D-4BE4-9730-F8F13C962B3D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC84C5C6-7876-480A-B613-D75343486910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC84C5C6-7876-480A-B613-D75343486910}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC84C5C6-7876-480A-B613-D75343486910}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC84C5C6-7876-480A-B613-D75343486910}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2A3B155D-A597-4143-806C-A615FB6B9888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2A3B155D-A597-4143-806C-A615FB6B9888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A3B155D-A597-4143-806C-A615FB6B9888}.Release|Any CPU.ActiveCfg = Release|Any CPU
