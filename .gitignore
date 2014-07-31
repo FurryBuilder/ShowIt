@@ -2,3 +2,6 @@ bin
 obj
 *.suo
 *.user
+
+# NuGet pacakges
+packages/
