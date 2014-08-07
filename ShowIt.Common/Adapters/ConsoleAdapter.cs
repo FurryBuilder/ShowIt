@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Text;
-using ShowIt.Common.Contracts;
+using ShowIt.Common.Adapters.Contracts;
 
-namespace ShowIt.Common.Services
+namespace ShowIt.Common.Adapters
 {
 	public class ConsoleAdapter : IConsoleAdapter
 	{

@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace ShowIt.Common.Contracts
+namespace ShowIt.Common.Adapters.Contracts
 {
 	/// <summary>
 	/// Represents the standard input, output, and error streams for console applications.
